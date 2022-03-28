@@ -31,7 +31,6 @@ nav ul {
   display: flex;
   text-decoration: none;
   list-style: none;
-  text-decoration: none;
   padding: .6rem 1.125rem;
   margin: 0 auto;
   font-size: 1.125rem;
@@ -53,7 +52,7 @@ nav a:focus {
 }
 
 body {
-  margin: auto;
+  margin: 0;
 }
 
 header h1 {
